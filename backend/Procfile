@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT kavish_4417.wsgi:application
